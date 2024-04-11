@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "218130432426",
+    "project_id": "dogbuddydog-40578",
+    "storage_bucket": "dogbuddydog-40578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218130432426:android:07e51b4b58bad45aea2bd3",
+        "android_client_info": {
+          "package_name": "com.example.dog_buddy_dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218130432426-gcm45oj22vgl2hlt6n3l9t4bictasccv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dog_buddy_dog",
+            "certificate_hash": "4a67fab5b8ae0f567c16059e50c6e9a0497010d8"
+          }
+        },
+        {
+          "client_id": "218130432426-2dv6icoomulei8psp996aq037qgnf6nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjqcEKgeeEXa7VP2FUgR5yb1UbbRZBzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218130432426-2dv6icoomulei8psp996aq037qgnf6nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
